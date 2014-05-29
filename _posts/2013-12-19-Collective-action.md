@@ -40,4 +40,4 @@ Very soon, members in community chapters will be able to opt in to basic health 
 
 By reaching out to groups of people who have not traditionally been union members, we at Unifor are challenging ourselves, and the labour movement, to include in our fight those who need it the most, and by doing so, to be true to one of the most basic union principles there is. In the union's plea for economic justice, fair labour laws, decreased inequality and more, involving new members in our work can only be an asset.
 
-This article originally appeared on [Rabble.ca](http://rabble.ca/blogs/bloggers/views-expressed/2013/12/collective-action-organizing-heart-community-chapters).
+*This article originally appeared on [Rabble.ca](http://rabble.ca/blogs/bloggers/views-expressed/2013/12/collective-action-organizing-heart-community-chapters).*
