@@ -17,4 +17,5 @@ It tells the story of Jude who tries his best to get through highschool as a gay
 
 Some have found the book shocking and graphic, but I would argue they are from another generation. It's an insightful look at how highschool can perpetuate homophobia, and Jude is a character that shows clearly how hard and destructive it can be on someone. 
 
-[[http://www.cbc.ca/books/2014/10/when-everything-feels-like-the-movies.html][Visit the book's page on Canada Reads]]
+
+<a href="http://www.cbc.ca/books/2014/10/when-everything-feels-like-the-movies.html">Visit the book's page on Canada Reads</a>
