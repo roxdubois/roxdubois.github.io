@@ -11,9 +11,9 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-<body>
- <img src="movies.jpg" alt="When everything feels like the movies" style="width:304px;height:228px">
-</body>
+
+<img src="{{ site.url }}/images/{{ movies.jpg }}" alt="{{ page.title }} feature image">
+
 
 You are likely to have heard a lot about this book in the past few weeks. It was seen as one of the more "controversial" contenders in Canada Reads and was agressively defended by Elaine Lui.
 
