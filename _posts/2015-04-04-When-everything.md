@@ -11,6 +11,11 @@ image:
   creditlink: http://texturelovers.com
 ---
 
+<body>
+ <h2>Movies</h2>
+ <img src="movies.jpg" alt="When everything feels like the movies" style="width:304px;height:228px">
+</body>
+
 You are likely to have heard a lot about this book in the past few weeks. It was seen as one of the more "controversial" contenders in Canada Reads and was agressively defended by Elaine Lui.
 
 It tells the story of Jude who tries his best to get through highschool as a gay teen. He copes with the harsh reality of bullying, violence and not fitting in by imagining a world in which he is a superstar. He responds to punches and insults by blowing kisses and giving permission to take his picture for the newspaper.
