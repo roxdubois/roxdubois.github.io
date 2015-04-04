@@ -1,0 +1,680 @@
+[33mcommit c0f963d50de4395dab80baa0d9c8b1c6fa483c4f[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Sat Apr 4 08:34:04 2015 -0400
+
+    test
+
+[33mcommit afb7475a4ac444c810390cc4b81ca01ecd4b10fa[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Thu May 29 06:42:01 2014 -0400
+
+    	deleted:    2013-12-19-Collective-action.md
+
+[33mcommit 0a8e8d311ff3a2945880ecd93dfe0d91ee067458[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 21:46:26 2014 -0400
+
+    Update post.html
+
+[33mcommit c0758c6c5884769464d82bdcba44110551921ef5[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 21:41:52 2014 -0400
+
+    Update 2013-05-28-this-space.md
+
+[33mcommit 2a86d3f0912dcc30be9bf2e95f53bcb1a9fae044[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 21:41:28 2014 -0400
+
+    Delete 2012-12-12-left.markdown
+
+[33mcommit 656e9d808f54e0c5777cf6a9e40a97df035448a1[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Wed May 28 21:37:53 2014 -0400
+
+    	new file:   2013-05-28-this-space.md
+
+[33mcommit e789af038a4e14c9832b22ae546ab494bf4cc164[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Wed May 28 20:34:58 2014 -0400
+
+    	modified:   about.html
+
+[33mcommit 518ee987f66e071ce98e6431f06f85a094ff62c4[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Wed May 28 20:12:15 2014 -0400
+
+    	modified:   2013-12-19-Collective-action.md
+
+[33mcommit 145df95bfb9326b5b61b6d6551dcdf688ace4ac7[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Wed May 28 20:10:01 2014 -0400
+
+    updated link
+
+[33mcommit 2d27d9eab4cfab02696bd5428e1652d95ef35fed[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Wed May 28 20:01:57 2014 -0400
+
+    	modified:   2013-12-19-Collective-action.md
+
+[33mcommit fd31130c6c935eca1c4878bdd636d84034af1260[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Wed May 28 19:52:43 2014 -0400
+
+    deleted:    2013-12-19-Collective-action,-organizing-at-heart-of-community-chapters.md
+    	deleted:    2013-12-19-Collective-action-and-organizing-at-heart-of-community-chapters.md
+    	deleted:    2014-01-22-Test-Post.md
+    	deleted:    2014-01-30-Test-Post.md~
+    	deleted:    2014-04-27-New-Test.md
+
+[33mcommit d2ea6cee8d706e801fa6b323efc4833b5b39da21[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Wed May 28 19:47:40 2014 -0400
+
+    2013-12-19-Collective-action.md
+
+[33mcommit b84e985e70812b1f0bf16dcf1aef0887b006a2ff[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Wed May 28 19:41:51 2014 -0400
+
+    2013-12-19-Collective-action-and-organizing-at-heart-of-community-chapters.md
+
+[33mcommit 137b59b53da51d41b2252c827f2f07d20a613ea9[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Wed May 28 19:35:46 2014 -0400
+
+    2013-12-19-Collective-action,-organizing-at-heart-of-community-chapters.md
+
+[33mcommit c5d67b1421f89be6b1c4bd073fa1fcb57ae79a09[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 18:55:23 2014 -0400
+
+    Update _config.yml
+
+[33mcommit d45e680aa571c9b9a12e106c03c5062a7a40a078[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 18:53:04 2014 -0400
+
+    Update _config.yml
+
+[33mcommit 2910bdbc94a05450c7541a40d2ffc11bd2ab01a4[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 18:51:52 2014 -0400
+
+    Update _config.yml
+
+[33mcommit c85f161d1724f92fbb5fc2b555019e361aef9870[m
+Merge: 839e959 36c2c22
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Wed May 28 18:42:57 2014 -0400
+
+    Merge branch 'master' of https://github.com/roxdubois/roxdubois.github.io
+
+[33mcommit 839e959db15d4e60ce3498e4b91dab08b5851b3d[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Wed May 28 18:42:14 2014 -0400
+
+    RD-bio-photo-sq.png
+
+[33mcommit 36c2c2215025dc4aa917f2ef8726f5e17ed40d23[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 18:04:12 2014 -0400
+
+    Update _config.yml
+
+[33mcommit 9d8d6e94834fafb75399e95fc91cea5fa6a562e6[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 17:58:50 2014 -0400
+
+    Update base.css
+
+[33mcommit 88863d330a792a7c7c47bebc1f7c33de7764d3e4[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Wed May 28 17:48:11 2014 -0400
+
+    favicon.ico
+
+[33mcommit 4ec20c38439d4fc4c1def17b3ba18127629319a3[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Wed May 28 17:40:13 2014 -0400
+
+    favicon.ico
+
+[33mcommit 3bbd806653527f0a8ec7423e6b646469dbf97c2f[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Wed May 28 17:34:08 2014 -0400
+
+    add png file
+
+[33mcommit 2a9eb8773f252df12e254866053b4174f7c69aaa[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Wed May 28 17:28:45 2014 -0400
+
+    add png file
+
+[33mcommit 875ef1abd09fd5180697a548bdbceb4849e3b45e[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 17:22:59 2014 -0400
+
+    Delete apple-touch-icon2.png
+
+[33mcommit ca0c5ca603f1bc4684995d77da857fee29bf90aa[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 17:22:47 2014 -0400
+
+    Create apple-touch-icon2.png
+
+[33mcommit 67b0001cbaa9123d6745d64ca5ade990d2dad11c[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 17:01:09 2014 -0400
+
+    Update post.html
+
+[33mcommit bdb287b5cd48b6734176bd4c2b88d673be991e87[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 16:58:09 2014 -0400
+
+    Update post.html
+
+[33mcommit 4ef97d7a7a6111995cec51969ac036b8b661730e[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 16:56:48 2014 -0400
+
+    Update post.html
+
+[33mcommit b422dc6b5bca7234e7e9fdca8739400ebbeae1d3[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 15:34:51 2014 -0400
+
+    Rename 2014-01-30-Test-Post.md to 2014-01-22-Test-Post.md
+
+[33mcommit 7886b54b31fe41bbf7512bd3e995900d16d79344[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 15:30:20 2014 -0400
+
+    Update about.html
+
+[33mcommit 953019f6d66e728220d408cea8e79fdc040eeeaa[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:44:22 2014 -0400
+
+    Update base.css
+
+[33mcommit 98ba1659880ca43a5747fbdd1d73bb68fb27f19d[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:35:36 2014 -0400
+
+    Update _config.yml
+
+[33mcommit 9ac1ff1e785bce592a4ee62552221696acd2dcd7[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:21:26 2014 -0400
+
+    Update base.css
+
+[33mcommit d35ce2ce8707f7e06d5eb430e642eb7450fd23d8[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:19:21 2014 -0400
+
+    Update base.css
+
+[33mcommit c720afe292919c5a3dcf98e41b619164487bd1bc[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:18:14 2014 -0400
+
+    Update base.css
+
+[33mcommit 423b4bbb8acfd50ec39b787d7f4ca4d482507e88[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:17:34 2014 -0400
+
+    Update base.css
+
+[33mcommit 7b59784b20446fa6c4f6e81f5c4b34090878cd9e[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:16:15 2014 -0400
+
+    Delete README.md
+
+[33mcommit efc2c14729dd4b8cf4c08502abd323d8a3044fc0[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:15:48 2014 -0400
+
+    Delete about.md
+
+[33mcommit 7634f2bf985b3b086269bafd150516a86e34d2a7[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:15:14 2014 -0400
+
+    Delete feed.xml
+
+[33mcommit 0d5afb97bd25ba95b3a612d63364be82be6601de[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:14:35 2014 -0400
+
+    Delete index.md
+
+[33mcommit 820623d7f7f86c9df6b368df63c682139c52f35a[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:14:04 2014 -0400
+
+    Delete posts.md
+
+[33mcommit 8c48e5760a4f88727d785ee6b05a5acc787b870f[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:12:51 2014 -0400
+
+    Delete variables.less
+
+[33mcommit 9129b1dce2916c875e2cdd8913bf7fc98b2119a6[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:12:43 2014 -0400
+
+    Delete typography.less
+
+[33mcommit cb3f3f2c8384991722ef2dce7eed94487fdb19fb[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:12:38 2014 -0400
+
+    Delete site.less
+
+[33mcommit f4edaaa35037e319eed5db23f8cd51a7a2724a99[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:12:34 2014 -0400
+
+    Delete pygments.less
+
+[33mcommit aa74d5397c944ee9d494a18869953f4e4c7c5d58[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:12:29 2014 -0400
+
+    Delete print.less
+
+[33mcommit 582fdfb90a565b4e5b4349016294b7cf1834a75d[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:12:24 2014 -0400
+
+    Delete page.less
+
+[33mcommit 381eb340c2d195f95e778f960ebe711d9e6cbf79[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:12:18 2014 -0400
+
+    Delete normalize.less
+
+[33mcommit eefbbc661152d10c72a8bd1d59e8cb7386672c4d[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:12:12 2014 -0400
+
+    Delete mixins.less
+
+[33mcommit 62efd5e135d4521fb13473c41cd761b4c79e6468[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:12:05 2014 -0400
+
+    Delete main.less
+
+[33mcommit e6965fd6ecfa4c4dcbe4b228e05dae1150c922d8[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:12:01 2014 -0400
+
+    Delete magnific-popup.less
+
+[33mcommit e291af3b369c3edd005d84d7ed4eeca140fadf7a[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:11:54 2014 -0400
+
+    Delete ie.less
+
+[33mcommit 5395e9ed03835cd8396ff916e4efdeaeea9c7335[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:11:50 2014 -0400
+
+    Delete icomoon.less
+
+[33mcommit 0e169166f6575de2819488bda1519bfc8abf0982[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:11:44 2014 -0400
+
+    Delete grid.less
+
+[33mcommit 410d2c54883b5d6161db1d8248904da157b4234f[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:11:39 2014 -0400
+
+    Delete forms.less
+
+[33mcommit fa36b86e3fb381b78862033c81b30ac14cfc99c9[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:11:32 2014 -0400
+
+    Delete elements.less
+
+[33mcommit 9a17b7ead1824549a116961081080095e4cb9aea[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:11:27 2014 -0400
+
+    Delete coderay.less
+
+[33mcommit c6df5b4c540af40e2726a90f783c4a030e4d9a27[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:11:22 2014 -0400
+
+    Delete 992.less
+
+[33mcommit 024aa1fe597f6921148f2682438b3a094021486c[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:11:17 2014 -0400
+
+    Delete 768.less
+
+[33mcommit 0093261c4f20b2fce0d35b779d4b84333d5adaa6[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:11:13 2014 -0400
+
+    Delete 600.less
+
+[33mcommit b4070f852e25c8962cc81ecd5cb510c09c7a34c9[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:11:07 2014 -0400
+
+    Delete 480.less
+
+[33mcommit b6e6cbceb7e4de3ddac24d5989174a606ec87cb9[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:11:02 2014 -0400
+
+    Delete 2x.less
+
+[33mcommit ebc5ad4f798fe67f985ac1c995f3ac70bcd9d430[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:10:58 2014 -0400
+
+    Delete 1382.less
+
+[33mcommit 949c6bce3183cd12ea3b8be86932a044023a32e6[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:10:48 2014 -0400
+
+    Delete scripts.min.js
+
+[33mcommit f99bcde3d478cb3d1211a69c2e1cb9948c641fd7[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:10:44 2014 -0400
+
+    Delete _main.js
+
+[33mcommit 4c0f25f119130beae89d900780c307d9b65c379a[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:10:37 2014 -0400
+
+    Delete modernizr-2.6.2.custom.min.js
+
+[33mcommit 130e1f5fae1d3ed3eff33ed95612178cf09bdf2d[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:10:32 2014 -0400
+
+    Delete jquery-1.9.1.min.js
+
+[33mcommit 9bfefc48b93ca1b90a18bfdbf83df2d7c12bc85e[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:10:24 2014 -0400
+
+    Delete jquery.magnific-popup.js
+
+[33mcommit 00f426211ebba1ae9818f79c8244073cf4975a36[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:10:15 2014 -0400
+
+    Delete jquery.fitvids.js
+
+[33mcommit f841be185cc52288ea45149030d92580f685c844[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:10:01 2014 -0400
+
+    Delete icomoon.woff
+
+[33mcommit 3f2a83d2afd0fa9efd3bb6bde64ced58be652e6e[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:09:57 2014 -0400
+
+    Delete icomoon.ttf
+
+[33mcommit 290c79fb9a13a3a788b494d5bbbda5b92ca55dad[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:09:54 2014 -0400
+
+    Delete icomoon.svg
+
+[33mcommit 20d5413d903e061057c3e9a3fb57a93547462684[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:09:48 2014 -0400
+
+    Delete icomoon.eot
+
+[33mcommit f7875b0be132fe854bea4d7fe8dc485e63341b2f[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:09:44 2014 -0400
+
+    Delete icomoon.dev.svg
+
+[33mcommit 9f6dbea3067ecc9fc56bf4d734a094630d2403e6[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:08:45 2014 -0400
+
+    Delete main.min.css
+
+[33mcommit 248909d29887b7c9731c15da5ade3b602509e6be[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:08:41 2014 -0400
+
+    Delete ie.min.css
+
+[33mcommit a0d8ad68e65eb6213ed633efa931a7f3bfdcf193[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:08:15 2014 -0400
+
+    Delete _scripts.html
+
+[33mcommit bcc875ee94cb54b7b877521f480b4a76932705d7[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:08:09 2014 -0400
+
+    Delete _navigation.html
+
+[33mcommit fd8791b8092a18c726de061f6ed0ad4d73e0a2b9[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:08:04 2014 -0400
+
+    Delete _footer.html
+
+[33mcommit 20e99f4e3dc633caef1979af9fd12f6454362f30[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:08:00 2014 -0400
+
+    Delete _browser-upgrade.html
+
+[33mcommit dd6729290e80c80c30fb18b80cd849a98e265136[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:07:55 2014 -0400
+
+    Delete _author-bio.html
+
+[33mcommit 7b7aa0d3bf9a51d545db3105605bf872f0ea300a[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:07:48 2014 -0400
+
+    Delete _head.html
+
+[33mcommit 0ecfad59c104617a8fe536e78cdadaf743ecc0b0[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:00:52 2014 -0400
+
+    Update base.css
+
+[33mcommit c6ce31811fa6505d35b3d68ef3c5bdf759774691[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 13:00:29 2014 -0400
+
+    Update base.css
+
+[33mcommit 2d6e2751eb859ede438f30713a0e847645bda1fb[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 12:36:28 2014 -0400
+
+    Update _config.yml
+
+[33mcommit 32de45b22ef33a1c02eb70cd2b734317f63a70cf[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 12:36:02 2014 -0400
+
+    Update _config.yml
+
+[33mcommit 6064a730c55b342435cb598af3eb336876578e9c[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 12:26:37 2014 -0400
+
+    Update _config.yml
+
+[33mcommit 30daf27547d96da55ba0bc457b25c6d7f6675c91[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 12:26:21 2014 -0400
+
+    Update _config.yml
+
+[33mcommit a97b1ec319f882005fda6a1ea62afb2f5616d63f[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 12:23:03 2014 -0400
+
+    Update _config.yml
+
+[33mcommit 3f35bc46fbfceb01ca0b99939cdefe9e44b27e24[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 12:16:59 2014 -0400
+
+    Update _config.yml
+
+[33mcommit cdce32f2ef6474e6eb567024b72793b13495d097[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Wed May 28 08:34:00 2014 -0400
+
+    Update _config.yml
+
+[33mcommit ddddcdfe2b1d19a86c89006ac4590ed95923a008[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Tue May 27 22:19:55 2014 -0400
+
+    new theme
+
+[33mcommit b073c24666c3237ea8973b89958b63ab35d31ccb[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Tue May 27 22:16:40 2014 -0400
+
+    Update 2014-01-30-Test-Post.md
+    
+    This is the update to test post 1.
+
+[33mcommit d05dd434fd93934b99ff44a934011d0680053748[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Tue May 27 22:10:56 2014 -0400
+
+    theme change
+
+[33mcommit 7fd01e2d7c10c096fe5a22ab9472742450589f47[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Thu Jan 30 22:30:29 2014 -0500
+
+    Update _config.yml
+
+[33mcommit ec3b1a81aa3ce7138fb10223ecb445475abe26fd[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Thu Jan 30 22:30:00 2014 -0500
+
+    Update _config.yml
+
+[33mcommit bbe5c2cc227058bc1140a8a55dee69e9266dca5e[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Thu Jan 30 22:23:51 2014 -0500
+
+    Update and rename index.html to index.md
+
+[33mcommit 9250551a850005af0dd76f5dd9c4a61280e22e73[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Thu Jan 30 22:22:01 2014 -0500
+
+    Rename index.md to index.html
+
+[33mcommit 5385f62f684d9ef439132bae70cbed350ec1e301[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Thu Jan 30 22:21:49 2014 -0500
+
+    Update index.md
+
+[33mcommit d7b7fafa4d57dc894c351127f47a6e80909273c9[m
+Author: Roxanne Dubois <rdubois@citizenspress.org>
+Date:   Thu Jan 30 22:19:39 2014 -0500
+
+    Update index.md
+
+[33mcommit e191e917e276f162c4fa2fad9d5de0c38a7dbb57[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Thu Jan 30 22:18:33 2014 -0500
+
+    renew
+
+[33mcommit 762ced53d3d89ca4e484f1cc8a60c6ed99cd8685[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Thu Jan 30 22:15:25 2014 -0500
+
+    renew
+
+[33mcommit 46df733a198b385da47c6660e9112b2f70896da6[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Thu Jan 30 22:10:29 2014 -0500
+
+    renew
+
+[33mcommit 766c5ec69373800cd7e5b6ea2e40f1958c701584[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Thu Jan 30 21:52:32 2014 -0500
+
+    	deleted:    _site/README.md
+    	deleted:    _site/index.html
+    	deleted:    index.html
+
+[33mcommit 7751330eb50f24cb540261c0f81d41217a700635[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Sun Jan 26 17:22:47 2014 -0500
+
+    fourth committ
+
+[33mcommit 81368326252b19a432f8755791b9bb609d0d9ee3[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Sun Jan 26 17:21:18 2014 -0500
+
+    third committ
+
+[33mcommit e16d6b4174361a56cb989eaa9853b1eda84825ef[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Sun Jan 26 17:18:29 2014 -0500
+
+    third committ
+
+[33mcommit 92e7a8c7c36ea2c59897a65fe04e093d136dde2f[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Sun Jan 26 17:14:42 2014 -0500
+
+    second committ
+
+[33mcommit 2d877b347439c561f0e1aa6f93efb884f3aa9bc9[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Sun Jan 26 17:02:48 2014 -0500
+
+    first commit
+
+[33mcommit 6d32df47deb57bec5590fd400876c396b4daf85a[m
+Author: roxdubois <rdubois@citizenspress.org>
+Date:   Sun Jan 26 16:52:19 2014 -0500
+
+    Initial commit
