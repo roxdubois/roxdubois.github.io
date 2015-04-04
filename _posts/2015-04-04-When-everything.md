@@ -12,7 +12,6 @@ image:
 ---
 
 <body>
- <h2>Movies</h2>
  <img src="movies.jpg" alt="When everything feels like the movies" style="width:304px;height:228px">
 </body>
 
