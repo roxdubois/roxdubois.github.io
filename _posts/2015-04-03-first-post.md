@@ -1,18 +1,13 @@
-<<<<<<< HEAD
 ---
 layout: post
-title: Art
+title: First post
 description: 
-modified: 2015-04-04
-category: Abecediary
+modified: 2015-04-03
+category: articles
 tags: [writing]
 image:
   feature: texture-feature-05.jpg
   credit: Texture Lovers
   creditlink: http://texturelovers.com
 ---
-
-Art and work, test post
-=======
-
->>>>>>> eeef6ca97fde60a5860a3b64573fc40fd1261024
+Just trying out a first post here. 
